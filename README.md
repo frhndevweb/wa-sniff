@@ -25,20 +25,20 @@ Semua data chat dihasilkan secara lokal di perangkat pengguna, **tidak terhubung
 1. Clone repository:
 
    ```bash
-   git clone https://github.com/username/wa-simulate.git
-   cd wa-simulate
+   git clone https://github.com/frhndevweb/wa-sniff
+   cd wa-sniff
    ```
 
 2. Beri izin eksekusi file:
 
    ```bash
-   chmod +x wa-simulate.sh
+   chmod +x install.sh
    ```
 
 3. Jalankan tools:
 
    ```bash
-   ./wa-simulate.sh
+   ./install.sh
    ```
 
 4. Masukkan nomor target:
