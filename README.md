@@ -25,7 +25,7 @@ Semua data chat dihasilkan secara lokal di perangkat pengguna, **tidak terhubung
 1. Clone repository:
 
    ```bash
-   git clone https://github.com/frhndevweb/wa-sniff
+   git clone https://github.com/frhndevweb/wa-sniff.git
    cd wa-sniff
    ```
 
